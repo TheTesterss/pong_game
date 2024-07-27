@@ -1,4 +1,4 @@
-A very simple pong game two players in python. Don't forget to install tkinter to execute.
+A very simple pong game two players in python. Don't forget to install tkinter and time to execute.
 
 Use Q & D for the first player
 
