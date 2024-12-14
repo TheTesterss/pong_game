@@ -2,4 +2,4 @@ A very simple pong game two players in python. Don't forget to install tkinter a
 
 Use Q & D for the first player
 
-use left arrow & right arrow for the second playern 
+use left arrow & right arrow for the second player
